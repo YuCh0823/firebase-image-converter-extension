@@ -124,12 +124,3 @@ npm test
 
 ## 许可证
 本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情。
-
-## 联系方式
-如有问题或建议，请通过以下方式联系我们：
-- 提交 Issue
-- 发起 Pull Request
-- 发送邮件至 [your-email@example.com]
-
-## 致谢
-感谢所有为本项目做出贡献的开发者！
